@@ -1,1 +1,1 @@
-web:gunicorn medicastore.wsgi
+web: gunicorn BackendTest.wsgi
