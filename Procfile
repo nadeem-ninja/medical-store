@@ -1,1 +1,1 @@
-web: gunicorn BackendTest.wsgi
+web: gunicorn medical-store.wsgi --log-file -
