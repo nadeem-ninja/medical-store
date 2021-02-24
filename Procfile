@@ -1,1 +1,1 @@
-gunicorn medicastore.wsgi --log-file -
+web:gunicorn medicastore.wsgi
